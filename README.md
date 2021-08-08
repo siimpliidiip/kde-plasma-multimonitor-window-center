@@ -8,7 +8,7 @@ This is a basic script redone using sample and understanding from the following 
 The Scripting API documentation is quite sparse to really understand what each bit of code does.
 So had to use the above sources to figure it out.
 
-Essentially, it calculates the screen size and resizes the window and adds a margin that is calculated using the total screen area to position it back accurately in the specific screen the window that it existed in.
+Essentially, it calculates the screen size and resizes the window and adds a margin that is calculated using the total screen area to position it back accurately in the specific screen the window existed in.
 
 # Installation
 
